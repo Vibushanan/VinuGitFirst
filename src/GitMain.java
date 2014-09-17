@@ -7,7 +7,11 @@ public class GitMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       System.out.println("master v 1.0");
+
       System.out.println("For R2 release");
+
+      System.out.println("master Bug Fixed v 1.1");
+
 	}
 
 }
